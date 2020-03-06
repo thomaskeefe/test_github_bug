@@ -11,3 +11,9 @@ If you click on broken image though, you get taken to a GitHub 404 page.
 When you then press Back in the browser, you return to the rich diff, but now the image appears as it 'should'.
 
 The bug is that the image does not show up in the rich diff unless you do this.
+
+### Below see the image I'm talking about:
+
+This image should appear as a broken link due to the bug.
+
+![](earth.png)
